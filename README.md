@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-My name is **Sarah Browning** and I'm a web programming student studying at NSCC Marconi Campus.  I love animals (especially my three cats!), video games, reading, coding, and playing Dungeons & Dragons and other tabletop RPGs.
+My name is **Sarah Browning** and I'm a web programming student studying at NSCC Marconi Campus.  I love animals (especially my three cats!), video games, reading, coding, and playing Dungeons & Dragons and other tabletop RPGs or board games.
 
 <!--
 **sarah-browning/sarah-browning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
