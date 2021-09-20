@@ -9,7 +9,7 @@ My name is **Sarah Browning** and I'm a web programming student studying at NSCC
 -->
 
 - 🔭 I’m currently working on settling into my second year of school.
-- 🌱 I’m currently learning Javascript and Java.
+- 🌱 I’m currently learning Javascript, Java, ReactJS and PHP.
 - 🎄 I’m looking forward to Christmas break!
 - 💬 Ask me about my cats or my D&D games.
 - 📫 How to reach me: browning.sarah.a@gmail.com or right here on GitHub!
