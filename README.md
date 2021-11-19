@@ -9,9 +9,9 @@ My name is **Sarah Browning** and I'm a web programming student studying at NSCC
 -->
 
 - 🔭 I’m currently working on settling into my second year of school.
-- 🌱 I’m currently learning Javascript, Java, ReactJS and PHP.
+- 🌱 I’m currently learning Javascript, Java, React, Node.js, Express, MongoDB, PHP, and Laravel.
 - 🎄 I’m looking forward to Christmas break!
-- 💬 Ask me about my cats or my D&D games.
+- 💬 Ask me about my cats or my love of D&D games.
 - 📫 How to reach me: browning.sarah.a@gmail.com or right here on GitHub!
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: If I had to be trapped in a video game for a day, it would be Stardew Valley!🐔
