@@ -13,9 +13,9 @@ My favorite language to work with so far is Java, and my favorite Java project I
 
 ### Fun Facts About Me:
 - 😄 Pronouns: She/Her/Hers
-- 🔭 I’m currently working on finishing my second year of college.
-- 🌱 I’m currently learning Javascript, Java, React, Node.js, Express, MongoDB, PHP, and Laravel.
-- 🎄 I’m looking forward to Christmas break!
+- 🔭 I’m currently in my final semester of college and looking for a 5-week work term/employment for post-graduation.
+- 🌱 I’m currently learning React Native, Python, and Wordpress.
+- :snowflake: I’m looking forward to March break!
 - 💬 Ask me about my cats or my love of D&D games.
 - ⚡ Fun fact: If I had to be trapped in a video game for a day, it would be Stardew Valley!🐔
 
