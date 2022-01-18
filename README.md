@@ -19,7 +19,7 @@ My favorite language to work with so far is Java, and my favorite Java project I
 - 💬 Ask me about my cats or my love of D&D games.
 - ⚡ Fun fact: If I had to be trapped in a video game for a day, it would be Stardew Valley!🐔
 
-I love animals (especially my three cats!), video games, reading, coding, and playing Dungeons & Dragons and other tabletop RPGs or board games.
+I love animals (especially my two cats!), video games, reading, coding, and playing Dungeons & Dragons and other tabletop RPGs or board games.
 
 <!--
 **sarah-browning/sarah-browning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
