@@ -1,6 +1,6 @@
 # Hello there, friend! 👋
 
-### Hello! My name is Sarah Browning and I'm a web programming student studying at NSCC Marconi Campus. I am currently seeking remote job opportunities for Spring 2022.
+### Hello! My name is Sarah Browning and I'm a web programming student studying at NSCC Marconi Campus. I am currently seeking remote job opportunities for post-graduation in June.
 
 I have more than 15 years of experience in providing stellar customer service; however, I'm looking to transition to an IT career path. I consider myself to be a creative problem-solver at heart, and have found coding to be an incredibly fun challenge as a result. I've really enjoyed learning at NSCC and have experience with HTML, CSS and JavaScript, including React and Node.js. I'm currently learning React Native through a Udemy course and having a lot of fun with that. Additionally, I've had in class experience with PHP, Laravel, Java, Python, Swift, WordPress, Visual Basic, and both SQL and NoSQL databases such as MySQL, MongoDB, and SQLite.
 
